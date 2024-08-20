@@ -15,6 +15,10 @@
 * yolo 설치 방법
 * 파이썬, Colab, Jupyter
 
+## 개발도구 
+* ![image](https://github.com/user-attachments/assets/4c1869a2-1e1d-476e-8933-36810993d396)
+
+
   
 ## 프로젝트 프로그램 사용법
 * 분할된 파일 구성정보
@@ -42,6 +46,38 @@
 
 ## Flow Chart
 ![image](https://github.com/kyoonw/kick-cops/assets/170689181/b9f8ba8f-f150-4ce0-be70-e7d61e6bcca6)
+
+## 프로젝트 개발
+### <div align="center"> < 데이터 분석 > </div>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f2531091-d7a3-4759-bc9c-9e762412d3c2" alt="image" width="500" />
+</div>
+
+### <div align="center" style="margin-top: 0; margin-bottom: 0;"> < UI 제작 ></div>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/462602c9-ec25-4ceb-852c-1c1005d361dd" alt="image" width="500" height="300"/>
+</div>
+
+### <div align="center" style="margin-top: 0; margin-bottom: 0;">< 영역 처리 > </div>
+<div align="right">
+  <img src="https://github.com/user-attachments/assets/690ee198-2779-4b2d-a26c-8ccf2fa5d809" alt="image" width="800" height="300"/>
+</div>
+
+### <div align="center"> < 모델 성능 비교 > </div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e45524b0-46d6-4dc8-b09b-e1ce12d8bd0d" alt="image1" width="350" style="display: inline-block; margin-right: 10px;" />
+  <img src="https://github.com/user-attachments/assets/a90e0fee-68b5-4dc1-8508-b87f58476b78" alt="image2" width="350" style="display: inline-block;" />
+</p>
+
+### <div align="center"> < 데이터셋 구축 > </div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bfddcc27-ad22-450d-a170-a305765608db" alt="image1" width="400" style="display: inline-block; margin-right: 10px;" />
+  <img src="https://github.com/user-attachments/assets/bbe510e6-de69-4112-90bc-4981d7cc0373" alt="image2" width="350" style="display: inline-block;" />
+</p>
+
+
+
+
 
   
 ## 버그 및 디버그
